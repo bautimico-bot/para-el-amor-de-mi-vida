@@ -375,3 +375,48 @@ transition:.8s;
     line-height:1.8;
 
 }
+.contador {
+
+    min-height:100vh;
+
+    background:linear-gradient(
+        to bottom,
+        #2b0808,
+        #120606
+    );
+
+    display:flex;
+
+    justify-content:center;
+
+    align-items:center;
+
+    flex-direction:column;
+
+    text-align:center;
+
+    color:white;
+
+}
+
+
+.contador h2 {
+
+    font-family:'Great Vibes',cursive;
+
+    font-size:55px;
+
+    color:#f0d9c8;
+
+}
+
+
+#tiempo {
+
+    margin-top:40px;
+
+    font-size:25px;
+
+    color:#d94a4a;
+
+}
