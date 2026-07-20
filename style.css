@@ -314,11 +314,11 @@ button:hover{
 
     left:20px;
 
-    bottom:20px;
+    bottom:0;
 
     border-radius:5px;
 
-    transform:translateY(120px);
+    transform:translateY(160px);
 
     transition:.8s;
 
@@ -327,6 +327,8 @@ button:hover{
     color:#4b0f0f;
 
     overflow:hidden;
+
+    z-index:1;
 
 }
 
