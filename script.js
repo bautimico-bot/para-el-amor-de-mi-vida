@@ -37,7 +37,7 @@ sos el amor de mi vida, mi razon de vivir, sos la unica razon que me alienta a s
 Gracias por elegirme aun sabiendo el desastre que soy y lo desastroza que es mi
 vida,no hay forma de agradecertelo, por eso quiero hacer estos pequeños gestos que demuestran que te amo y que mi amor por vos rompen barreras haciendo cosas que no estan dentro de mi zona de confort
 te amo millones y te extraño como no te haces una idea
-con amor; Bauti 💘
+con amor; Bauti 💘`;
 
 
 let indice = 0;
