@@ -329,7 +329,7 @@ transition:.8s;
 
     color:#4b0f0f;
 
-    overflow:hidden;
+    overflow-y:auto;
 
     z-index:1;
 
@@ -338,9 +338,11 @@ transition:.8s;
 
 .carta p {
 
-    font-size:16px;
+    white-space:pre-line;
 
-    line-height:1.6;
+    font-size:15px;
+
+    line-height:1.8;
 
 }
 .sobre:hover .carta {
