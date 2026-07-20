@@ -109,3 +109,8 @@ function actualizarTiempo(){
 setInterval(actualizarTiempo,1000);
 
 actualizarTiempo();
+function abrirFoto(foto){
+
+    foto.classList.toggle("activa");
+
+}
