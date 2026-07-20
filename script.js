@@ -32,29 +32,13 @@ Quise hacer algo especial para vos.
 
 Quise jugar a hacerme el informático y programarte una página desde cero (obviamente con una ayudita de ChatGPT porque no sé un culo de programación jajaja), pero quería intentarlo porque vos valés eso y mucho más.
 
-Quiero que sepas que te amo muchísimo. Que sos única para mí y que desde que llegaste a mi vida muchas cosas cambiaron.
+Quiero que sepas que te amo muchísimo. Que tu sonrisa me vuelve loco tooooodos los dias, que el pensarte es mi actividad favorita del dia, quiero hacerte saber que no existe ni va a existir una personita tan unica y perfecta como vos, 
+sos el amor de mi vida, mi razon de vivir, sos la unica razon que me alienta a seguir todos los dias, que me da fuerzas para levantarme y me hace saber que soy amado apesar de todas las adversidades.
+Gracias por elegirme aun sabiendo el desastre que soy y lo desastroza que es mi
+vida,no hay forma de agradecertelo, por eso quiero hacer estos pequeños gestos que demuestran que te amo y que mi amor por vos rompen barreras haciendo cosas que no estan dentro de mi zona de confort
+te amo millones y te extraño como no te haces una idea
+con amor; Bauti 💘
 
-Sos esa persona que me hace sonreír, que me hace querer mejorar y que me hace imaginar un futuro hermoso.
-
-No quiero estar solamente en los momentos fáciles. Quiero acompañarte cuando todo esté bien y también cuando las cosas cuesten. Quiero hacer las cosas bien con vos.
-
-Quiero seguir creando recuerdos, seguir riéndonos, seguir abrazándote y seguir eligiéndote todos los días.
-
-Sueño con que algún día pueda cumplir eso que imaginaste: pedirte matrimonio en un bosquecito con un laguito, como lo pensaste en Bariloche.
-
-Sos lo mejor que me pasó.
-
-Gracias por llegar a mi vida el 18 de diciembre de 2025 y hacerla mucho más linda.
-
-No te amo solamente con el corazón.
-
-Porque el corazón algún día deja de latir...
-
-Te amo con el alma.
-
-Y el alma vive para siempre ❤️
-
-Bauti`;
 
 let indice = 0;
 
