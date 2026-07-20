@@ -9,3 +9,14 @@ if (boton) {
 
     });
 }
+const sobre = document.getElementById("sobre");
+
+if (sobre) {
+
+    sobre.addEventListener("click", () => {
+
+        sobre.classList.add("abierto");
+
+    });
+
+}
