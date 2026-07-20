@@ -550,3 +550,62 @@ transition:.8s;
     z-index:999;
 
 }
+.final {
+
+    min-height:100vh;
+
+    background:
+    linear-gradient(
+        to bottom,
+        #120606,
+        #4b0f0f
+    );
+
+    display:flex;
+
+    justify-content:center;
+
+    align-items:center;
+
+    flex-direction:column;
+
+    text-align:center;
+
+    color:white;
+
+    position:relative;
+
+    overflow:hidden;
+
+}
+
+
+.final h1 {
+
+    font-family:'Great Vibes',cursive;
+
+    font-size:70px;
+
+    color:#f0d9c8;
+
+}
+
+
+.final p {
+
+    margin-top:30px;
+
+    font-size:22px;
+
+    line-height:2;
+
+}
+
+
+.final h2 {
+
+    margin-top:50px;
+
+    color:#d94a4a;
+
+}
