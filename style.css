@@ -309,7 +309,9 @@ transition:.8s;
 
     width:280px;
 
-    height:350px;
+    min-height:350px;
+
+    max-height:70vh;
 
     background:#f5e6c8;
 
