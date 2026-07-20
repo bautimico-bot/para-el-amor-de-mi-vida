@@ -346,3 +346,28 @@ transition:.8s;
     transform:translateY(40px);
 
 }
+.carta {
+
+    background:#f5e6c8;
+
+    color:#3b1a1a;
+
+    font-family:'Poppins', sans-serif;
+
+    box-shadow:
+    0 0 20px rgba(0,0,0,.4);
+
+    border:2px solid #e8cfa8;
+
+}
+
+
+.carta p {
+
+    white-space:pre-line;
+
+    font-size:15px;
+
+    line-height:1.8;
+
+}
