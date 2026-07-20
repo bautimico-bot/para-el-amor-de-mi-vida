@@ -340,3 +340,8 @@ button:hover{
     line-height:1.6;
 
 }
+.sobre:hover .carta {
+
+    transform:translateY(40px);
+
+}
