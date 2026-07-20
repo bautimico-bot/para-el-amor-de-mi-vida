@@ -73,3 +73,39 @@ function escribirCarta(){
     }
 
 }
+function actualizarTiempo(){
+
+    const inicio = new Date("2025-12-18T00:00:00");
+
+    const ahora = new Date();
+
+    const diferencia = ahora - inicio;
+
+
+    const dias = Math.floor(diferencia / (1000 * 60 * 60 * 24));
+
+    const horas = Math.floor(
+        diferencia / (1000 * 60 * 60) % 24
+    );
+
+    const minutos = Math.floor(
+        diferencia / (1000 * 60) % 60
+    );
+
+    const segundos = Math.floor(
+        diferencia / 1000 % 60
+    );
+
+
+    document.getElementById("tiempo").innerHTML =
+    `❤️ ${dias} días<br>
+     ❤️ ${horas} horas<br>
+     ❤️ ${minutos} minutos<br>
+     ❤️ ${segundos} segundos`;
+
+}
+
+
+setInterval(actualizarTiempo,1000);
+
+actualizarTiempo();
