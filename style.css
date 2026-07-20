@@ -609,3 +609,38 @@ transition:.8s;
     color:#d94a4a;
 
 }
+.petalos::before {
+
+    content:"🌹 🌹 🌹 🌹 🌹";
+
+    position:absolute;
+
+    top:-50px;
+
+    left:0;
+
+    width:100%;
+
+    font-size:40px;
+
+    animation:caer 8s linear infinite;
+
+}
+
+
+@keyframes caer {
+
+    from {
+
+        transform:translateY(-100px);
+
+    }
+
+
+    to {
+
+        transform:translateY(100vh);
+
+    }
+
+}
