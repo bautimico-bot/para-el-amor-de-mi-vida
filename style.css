@@ -159,3 +159,64 @@ button:hover{
     }
 
 }
+.historia {
+    min-height: 100vh;
+    background: linear-gradient(
+        to bottom,
+        #090014,
+        #1a0033
+    );
+    color: white;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    text-align: center;
+    padding: 40px;
+    position: relative;
+    overflow: hidden;
+}
+
+.historia::before {
+    content: "";
+    position: absolute;
+    width: 3px;
+    height: 3px;
+    background: white;
+    border-radius: 50%;
+    box-shadow:
+        20px 50px white,
+        100px 80px white,
+        200px 30px white,
+        300px 120px white,
+        400px 60px white,
+        500px 150px white,
+        600px 40px white,
+        700px 100px white;
+    animation: estrellas 4s infinite alternate;
+}
+
+.historia h2 {
+    font-family: 'Great Vibes', cursive;
+    font-size: 45px;
+    z-index: 2;
+}
+
+.historia p {
+    font-size: 20px;
+    margin-top: 20px;
+    z-index: 2;
+}
+
+
+@keyframes estrellas {
+
+    from {
+        opacity: 0.3;
+    }
+
+    to {
+        opacity: 1;
+    }
+
+}
